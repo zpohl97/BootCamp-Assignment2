@@ -1,0 +1,37 @@
+#searchBar {
+  margin: 15px 10px;
+}
+
+.tableWrapper 
+{
+  max-height: 400px;
+  background-color: #0020A4;
+  color:#848484;
+  overflow: auto;
+}
+
+.removeButton
+{
+  cursor: pointer;
+  background: #FA4616;
+  text-align: center;
+  color: white;
+  border-radius: 2px;
+  border: 2px solid #FA4616;
+  
+}
+
+.addButton
+{
+  cursor: pointer;
+  background: #FA4616;
+  color: white;
+  border-radius: 8px;
+}
+
+.jumbotron
+{
+  background-color: #0021A4;
+  border-radius: 8px;
+  color: white;
+}
